@@ -1,0 +1,247 @@
+device cpu
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (110250000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (106281000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (103635000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (90625500 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (90846000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (93933000 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (91507500 pixels) exceeds limit of 89478485 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+Downloading: "https://download.pytorch.org/models/resnet18-5c106cde.pth" to /root/.cache/torch/checkpoints/resnet18-5c106cde.pth
+100%|██████████| 44.7M/44.7M [00:00<00:00, 61.3MB/s]
+Epoch 0/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.6337 Acc: 0.6694
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3686 Acc: 0.8477
+
+Epoch 1/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.6140 Acc: 0.7231
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3038 Acc: 0.8742
+
+Epoch 2/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.6180 Acc: 0.6860
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3487 Acc: 0.8411
+
+Epoch 3/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.6274 Acc: 0.6777
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.4374 Acc: 0.7947
+
+Epoch 4/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.8340 Acc: 0.6901
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3553 Acc: 0.8543
+
+Epoch 5/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.6465 Acc: 0.7066
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.5143 Acc: 0.7815
+
+Epoch 6/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.5846 Acc: 0.7273
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3747 Acc: 0.8411
+
+Epoch 7/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4927 Acc: 0.7190
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3132 Acc: 0.8874
+
+Epoch 8/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4967 Acc: 0.7810
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.2997 Acc: 0.8940
+
+Epoch 9/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.5050 Acc: 0.7355
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3196 Acc: 0.8543
+
+Epoch 10/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4156 Acc: 0.7810
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3349 Acc: 0.8543
+
+
+Epoch 11/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4611 Acc: 0.7810
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3159 Acc: 0.8874
+
+Epoch 12/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4267 Acc: 0.7727
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3338 Acc: 0.8609
+
+Epoch 13/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4218 Acc: 0.8017
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3043 Acc: 0.8874
+
+Epoch 14/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4841 Acc: 0.7355
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3241 Acc: 0.8609
+
+Epoch 15/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4950 Acc: 0.7479
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3160 Acc: 0.8675
+
+Epoch 16/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.5134 Acc: 0.7769
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3221 Acc: 0.8675
+
+Epoch 17/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4318 Acc: 0.7727
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3376 Acc: 0.8411
+
+
+Epoch 18/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.5175 Acc: 0.7521
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3217 Acc: 0.8742
+
+Epoch 19/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4559 Acc: 0.8058
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3008 Acc: 0.8874
+
+Epoch 20/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4928 Acc: 0.7851
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3085 Acc: 0.8874
+
+Epoch 21/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4728 Acc: 0.8099
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3313 Acc: 0.8609
+
+Epoch 22/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4243 Acc: 0.8182
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3231 Acc: 0.8808
+
+Epoch 23/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4821 Acc: 0.7645
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+
+val Loss: 0.3239 Acc: 0.8543
+
+Epoch 24/24
+----------
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (200844630 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+train Loss: 0.4380 Acc: 0.7851
+/usr/local/lib/python2.7/dist-packages/PIL/Image.py:2618: DecompressionBombWarning: Image size (229895064 pixels) exceeds limit of 188395200 pixels, could be decompression bomb DOS attack.
+  DecompressionBombWarning)
+val Loss: 0.3137 Acc: 0.8808
+
+Training complete in 65m 8s
+Best val Acc: 0.894040
